@@ -3,16 +3,23 @@ Features:
 Add new tasks with a title and description.
 
 Update existing tasks.
+
 Delete tasks.
+
 Mark tasks as completed.
+
 Flash messages with auto-hide (3 seconds).
+
 Clean and responsive interface.
 
 Technologies Used:
 
 Backend: Python, Flask.
+
 Database: SQLite (via SQLAlchemy).
+
 Frontend: HTML, CSS, Jinja2 Templates.
+
 JavaScript: Auto-hide flash messages.
 
 Projects Structure:
