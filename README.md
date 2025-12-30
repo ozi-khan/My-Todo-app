@@ -1,28 +1,30 @@
-Features:
+#Features:
 
-Add new tasks with a title and description.
 
-Update existing tasks.
+- Add new tasks with a title and description.
 
-Delete tasks.
+- Update existing tasks.
 
-Mark tasks as completed.
+- Delete tasks.
 
-Flash messages with auto-hide (3 seconds).
+- Mark tasks as completed.
 
-Clean and responsive interface.
+- Flash messages with auto-hide (3 seconds).
 
-Technologies Used:
+- Clean and responsive interface.
 
-Backend: Python, Flask.
+##Technologies Used:
 
-Database: SQLite (via SQLAlchemy).
 
-Frontend: HTML, CSS, Jinja2 Templates.
+- Backend: Python, Flask.
 
-JavaScript: Auto-hide flash messages.
+- Database: SQLite (via SQLAlchemy).
 
-Projects Structure:
+- Frontend: HTML, CSS, Jinja2 Templates.
+
+- JavaScript: Auto-hide flash messages.
+
+###Projects Structure:
 
 todo-app/
 │
