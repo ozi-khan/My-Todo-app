@@ -1,6 +1,7 @@
 Features:
 
 Add new tasks with a title and description.
+
 Update existing tasks.
 Delete tasks.
 Mark tasks as completed.
